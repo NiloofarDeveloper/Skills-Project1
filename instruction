@@ -7,3 +7,14 @@ Below 800px all font sizes must change
 The top navigation must: include a menu button, title, logo, and have a shadow
 Use filler content (Any text will do)
 Include comments in both the HTML and the CSS about major sections
+
+Uploading to GitHub:
+
+Upload your complete project (html file, css file(s), images, etc.) to GitHub.
+
+- You’ll be uploading a bunch of assignments there, so stay organized
+
+
+Commit All Required Files to GitHub in a new Repository
+Create a pull request and a new Branch
+Merge Changes Back to Main Branch
